@@ -1,4 +1,4 @@
-# cryptotransactionmicroservice
+# crypto transaction microservice
 A microservice that handles transaction inquiry on a crypto wallet
 
 Requirements:
